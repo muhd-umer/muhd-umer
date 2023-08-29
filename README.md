@@ -1,7 +1,11 @@
-## 👋 Hi, I'm Muhammad Umer
+<h1 align="center"> 👋 Hi, I'm Muhammad Umer </h1>
+
 - 📖 I'm an undergrad student at National University of Sciences & Technology (NUST)
+
 - ⚡ Passionate about employing reinforcement learning to adeptly tackle evolving challenges of 6G networking ヾ(≧ ▽ ≦)ゝ
+  
 - ✨ Leveraging my research and expertise, I am dedicated to fostering innovation and enhancing global connectivity (●'◡'●)
+  
 - 🔭 I’m looking forward to collaborate on ANYTHING! ༼ つ ◕_◕ ༽つ 
 
 ## Favourite Languages & Tools
