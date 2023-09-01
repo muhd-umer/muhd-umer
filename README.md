@@ -8,7 +8,7 @@
   
 - 🔭 I’m looking forward to collaborate on ANYTHING! ༼ つ ◕_◕ ༽つ 
 
-## Favourite Languages & Tools
+### Favourite Languages & Tools
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -25,6 +25,9 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="37" height="37"/> </a>
 </p>
+
+### Contact Details
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="25"/>](mailto:thisismumer@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25"/>](https://www.linkedin.com/in/muhd-umer/)
 
 <!---
 muhd-umer/muhd-umer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
