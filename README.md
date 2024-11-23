@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I'm Muhammad Umer </h1>
 
-- 📖 I'm an undergrad student at National University of Sciences & Technology (NUST)
+- 📖 I'm a research assistant at Information Processing and Transmission (IPT) Lab, NUST
 
 - ⚡ Passionate about employing reinforcement learning to adeptly tackle evolving challenges of 6G networking ヾ(≧ ▽ ≦)ゝ
   
